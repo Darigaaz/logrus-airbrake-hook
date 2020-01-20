@@ -1,4 +1,4 @@
-package airbrake // import "gopkg.in/gemnasium/logrus-airbrake-hook.v4"
+package airbrake // import "gopkg.in/Darigaaz/logrus-airbrake-hook.v4"
 
 import (
 	"errors"

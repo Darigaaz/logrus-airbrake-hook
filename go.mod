@@ -1,6 +1,4 @@
-module gopkg.in/gemnasium/logrus-airbrake-hook.v4
-
-go 1.13
+module gopkg.in/Darigaaz/logrus-airbrake-hook.v4
 
 require (
 	github.com/airbrake/gobrake/v4 v4.0.3
